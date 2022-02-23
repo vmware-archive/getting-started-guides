@@ -1,3 +1,5 @@
+# getting-started-guides is no longer actively maintained by VMware, Inc.
+
 ---
 tags: []
 ---
